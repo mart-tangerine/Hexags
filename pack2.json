@@ -97,7 +97,7 @@
 	"tilesat" : [(0, -3), (0, 1), (-3, -1), (-1, 1), (1, 0), (1, -2), (-1, -3), (-2, -2), (-2, 0), (-2, 1), (1, -1), (-2, -3)],
 	"size" : 1,
 	"name" : "Russian roulette",
-	"hint" : "This level is designed so that none of the tiles point to mines\nGood luck :)"
+	"hint" : "This level is designed so that\nnone of the tiles point to mines\nGood luck :)"
 },
 {
 	"mines" : 10,
